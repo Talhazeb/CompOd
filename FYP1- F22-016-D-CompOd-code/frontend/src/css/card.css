@@ -1,0 +1,12 @@
+.box {
+    color: "black";
+    margin-left: "3rem";
+    margin-top: "2rem";
+    display: "flex";
+    justify-content: "center";
+    align-items: "center";
+    border-radius: "7px";
+    width: "60rem";
+    border: "2px solid #e5ebf0";
+    background-color: "#fafbfc";
+}
